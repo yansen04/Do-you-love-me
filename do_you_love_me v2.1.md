@@ -1,5 +1,3 @@
-/**Tiktok meowish**/
-
 * {
   padding: 0;
   margin: 0;
