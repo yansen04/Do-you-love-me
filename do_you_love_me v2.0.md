@@ -12,9 +12,6 @@
     <title>DO you love me? version 2.0</title>
   </head>
   <body>
-    <!-- for more code, visit my tiktok account -->
-    <!-- tiktok "meowish" -->
-
     <div class="question-container container">
       <div
         class="tenor-gif-embed"
@@ -32,20 +29,17 @@
         type="text/javascript"
         async
         src="https://tenor.com/embed.js"></script>
-
       <h2 class="question">Do you love me?</h2>
       <div class="button-container">
         <button class="yes-btn btn js-yes-btn">Yes</button>
         <button class="no-btn btn js-no-btn">No</button>
       </div>
     </div>
-
     <div class="result-container yes container">
       <video class="gif-result" src="cute love gif.mp4" autoplay loop></video>
       <h2>I knew it😍!</h2>
       <button class="restart-btn">Restart?</button>
     </div>
-
     <div class="result-container no container">
       <div
         class="tenor-gif-embed"
@@ -69,7 +63,6 @@
       <h2>I'll K**l You🤬!</h2>
       <button class="restart-btn">Restart?</button>
     </div>
-
     <div class="cssload-main">
       <div class="cssload-heart">
         <span class="cssload-heartL"></span>
