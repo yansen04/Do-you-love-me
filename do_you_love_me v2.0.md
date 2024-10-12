@@ -8,7 +8,7 @@
     <link
       href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
       rel="stylesheet" />
-    <link rel="stylesheet" href="do_you_love_me v2.0.css" />
+    <link rel="stylesheet" href="do_you_love_me v2.1.md" />
     <title>DO you love me? version 2.0</title>
   </head>
   <body>
